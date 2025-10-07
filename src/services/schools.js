@@ -39,5 +39,29 @@ export const schoolsService = {
     } catch (error) {
       throw error.response?.data || error;
     }
+  },
+  
+  updateSchool: async (id, schoolData) => {
+    try {
+      console.log('Enviando dados para atualização:', { id, schoolData });
+      
+      const payload = {
+        nome: schoolData.nome.trim(),
+        cidade_id: schoolData.cidade_id,
+        localizacao: schoolData.localizacao,
+        turnos: schoolData.turnos,
+        diretor: schoolData.diretor?.trim() || null 
+      };
+
+      console.log('Payload de atualização:', payload);
+      
+      const response = await api.patch(`/api/escolas/${id}`, payload);
+      console.log('Resposta da atualização:', response.data);
+      return response.data;
+    } catch (error) {
+      console.error('Erro na atualização:', error.response?.data || error);
+      throw error.response?.data || error;
+    }
   }
+
 };
