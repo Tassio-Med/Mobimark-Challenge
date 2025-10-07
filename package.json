@@ -1,7 +1,7 @@
 {
   "name": "mobimarkchallenge",
   "version": "1.0.0",
-  "main": "expo/App.js",
+  "main": "App.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
