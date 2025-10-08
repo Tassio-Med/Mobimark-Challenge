@@ -328,6 +328,6 @@ expo build:ios
 
 <div align="center">
 
-[⬆️ Voltar ao Topo](#-mobimark-challenge---sistema-de-gestão-escolar) 🔼
+[⬆️ Voltar ao Topo](#-mobimark-challenge - sistema-de-gestão-escolar) 🔼
 
 </div>
