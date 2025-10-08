@@ -328,6 +328,6 @@ expo build:ios
 
 <div align="center">
 
-[⬆️ Voltar ao Topo](#-mobimark-challenge) 🔼
+[⬆️ Voltar ao Topo](#mobimark-challenge) 🔼
 
 </div>
