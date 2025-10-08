@@ -1,8 +1,8 @@
-# Mobimark Challenge - Sistema de Gestão Escolar
+# Mobimark Challenge
 
 ## 📑 Sumário
 
-- [Mobimark Challenge - Sistema de Gestão Escolar](#mobimark-challenge---sistema-de-gestão-escolar)
+- [Mobimark Challenge](#mobimark-challenge)
   - [📑 Sumário](#-sumário)
   - [📱 Sobre o Projeto](#-sobre-o-projeto)
     - [🎯 Objetivos Atendidos](#-objetivos-atendidos)
@@ -328,6 +328,6 @@ expo build:ios
 
 <div align="center">
 
-[⬆️ Voltar ao Topo](#-mobimark-challenge - sistema-de-gestão-escolar) 🔼
+[⬆️ Voltar ao Topo](#-mobimark-challenge) 🔼
 
 </div>
