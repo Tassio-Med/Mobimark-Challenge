@@ -318,7 +318,7 @@ expo build:ios
 
 ## 👨‍💻 Desenvolvedor
 
-**Tassio Medeiros**  
+**Tássio Medeiros**  
 *Desenvolvedor Mobile*  
 📧 tassiohfmed@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/tassiomed98)  
